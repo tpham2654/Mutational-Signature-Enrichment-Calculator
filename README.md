@@ -47,7 +47,7 @@ This code should work on any computer that can run Python 3.
 |TCGA-FF-A7CX.maf|0.6527777777777777|0.7307526870927789|0.5969015874220198|
 
 The ENSEMBL GRCh37 full genome DNA reference (ftp://ftp.ensembl.org/pub/grch37/current/fasta/homo_sapiens/dna/Homo_sapiens.GRCh37.dna.primary_assembly.fa.gz), which was used to call the TCGA mutations, was used.
-Please see the "test" folder for the exact TCGA MAF files used to generate this table.  The script "TCGA_test.py" can be used to generate the above table.
+Please see the [test folder](/test/) for the exact TCGA MAF files used to generate this table.  The script [TCGA_test.py](/TCGA_test.py) can be used to generate the above table.
 
 ## Comparison with PMAC-D on Pan-Cancer TCGA Data:
 ![PMAC-D vs AMSE graph](/images/PMAC-D_AMSE.png)
