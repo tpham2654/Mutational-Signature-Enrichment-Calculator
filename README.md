@@ -53,4 +53,4 @@ Please see the [TCGA_test folder](/TCGA_test/) for the exact TCGA MAF files used
 ![PMAC-D vs AMSE graph](/images/PMAC-D_AMSE.png)
 
 # Info
-This repository is intended to be a partial fork of the files from the UCSD [CCAL Computational Cancer Analysis Library](https://github.com/KwatME/ccal) required to calculate MSE values, generalized to work on any mutational signature. 
+This repository is intended to be a partial fork of the files from the UCSD [CCAL Computational Cancer Analysis Library](https://github.com/KwatME/ccal) required to calculate MSE values, generalized to work on any mutational signature defined by contextual nucleotide switch probabilities. 
