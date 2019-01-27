@@ -46,7 +46,7 @@ This code should work on any computer that can run Python 3.
 |TCGA-DD-A73G.maf|0.9325034978530419|0.7367417842643569|1.1181360888995775|
 |TCGA-FF-A7CX.maf|0.6527777777777777|0.7307526870927789|0.5969015874220198|
 
-The [ENSEMBL GRCh37 full genome](ftp://ftp.ensembl.org/pub/grch37/current/fasta/homo_sapiens/dna/Homo_sapiens.GRCh37.dna.primary_assembly.fa.gz) reference, which was used to call the TCGA mutations, was used.
+The [ENSEMBL GRCh37 full genome] (ftp://ftp.ensembl.org/pub/grch37/current/fasta/homo_sapiens/dna/Homo_sapiens.GRCh37.dna.primary_assembly.fa.gz) reference, which was used to call the TCGA mutations, was used.
 Please see the "test" folder for the exact files used in the input.  
 
 ## Comparison with PMAC-D on Pan-Cancer TCGA Data:
