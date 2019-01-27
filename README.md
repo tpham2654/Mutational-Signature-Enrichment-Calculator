@@ -19,7 +19,7 @@ The code accepts called mutations in MAF files, with the same column order as fo
 ```
 from compute_mutational_signature_enrichment import compute_mutational_signature_enrichment
 
-mutation_file_paths = ["./data/TCGA-",]
+mutation_file_paths = ["./TCGA_test/TCGA-44-7661.maf","./TCGA_test/TCGA-CQ-7068.maf","./TCGA_test/TCGA-DD-A73G","./TCGA_test/TCGA-FF-A7CX.maf"]
 
 compute_mutational_signature_enrichment(
     mutation_file_paths, #list of called mutation file paths in MAF or VCF format, 1 file per sample
