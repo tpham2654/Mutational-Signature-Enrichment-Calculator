@@ -12,7 +12,7 @@ It is UCSD CCAL's implementation of the PMAC-D metric from [Roberts, et. al An A
 - TCT ==> TGT
 - TCT ==> TTT
 
-In addition to the PMAC-D signature definition included by default, it has also been generalized to calculate the MSE statistic based on probabilities for each of the 96 trinucleotide switches as defined by [Alexandrov, et. al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776390/) and available on the [COSMIC Mutational Signatures page](https://cancer.sanger.ac.uk/cosmic/signatures).  These mutation signature probabilities are defined in the tab-delimited file "signatures_probabilities.txt" in the "data" directory.
+In addition to the PMAC-D signature definition included by default, it has also been generalized to calculate the MSE statistic based on probabilities for each of the 96 trinucleotide switches as defined by [Alexandrov, et. al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776390/) and available on the [COSMIC Mutational Signatures page](https://cancer.sanger.ac.uk/cosmic/signatures).  These mutation signature probabilities are defined in the tab-delimited file [/data/signatures_probabilities.txt](/data/signatures_probabilities.txt).
 
 # Usage
 The code accepts called mutations in MAF files, with the same column order as found on TCGA, or VCF files as inputs.  
