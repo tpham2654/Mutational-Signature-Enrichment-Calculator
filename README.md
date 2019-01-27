@@ -1,7 +1,7 @@
 # Mutational Signature Enrichment (MSE) Calculator
 
 This is the code for the Mutation Signature Enrichment calculating tool used in these publications:
--[Boichard, Pham, et. al APOBEC-related mutagenesis and neo-peptide hydrophobicity: implications for response to immunotherapy](https://www.tandfonline.com/doi/full/10.1080/2162402X.2018.1550341)
+- [Boichard, Pham, et. al APOBEC-related mutagenesis and neo-peptide hydrophobicity: implications for response to immunotherapy](https://www.tandfonline.com/doi/full/10.1080/2162402X.2018.1550341)
 - Pham, Boichard, et. al Role of Ultra-Violet Mutational Signature versus Tumor Mutation Burden in Predicting Response to Immunotherapy (manuscript)
 
 
