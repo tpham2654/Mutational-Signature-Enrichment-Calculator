@@ -2,7 +2,7 @@
 
 This is the code for the Mutation Signature Enrichment calculating tool used in these publications:
 - [Boichard, Pham, et. al APOBEC-related mutagenesis and neo-peptide hydrophobicity: implications for response to immunotherapy](https://www.tandfonline.com/doi/full/10.1080/2162402X.2018.1550341)
-- Pham, Boichard, Goodman, et. al Role of Ultra-Violet Mutational Signature versus Tumor Mutation Burden in Predicting Response to Immunotherapy (manuscript)
+- [Pham, Boichard, et. al Role of Ultra-Violet Mutational Signature versus Tumor Mutation Burden in Predicting Response to Immunotherapy](https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.12748)
 
 
 It is UCSD CCAL's implementation of the PMAC-D metric from [Roberts, et. al An APOBEC Cytidine Deaminase Mutagenesis Pattern is Widespread in Human Cancers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789062/), called AMSE (APOBEC Mutational Signature Enrichment) in the APOBEC paper above, used to measure the degree of APOBEC mutagenesis from a list of mutations called in a sample.  PMAC-D counted the following nucleotide changes and their reverse complements, weighted equally:
